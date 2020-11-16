@@ -2,3 +2,8 @@
 
 print('Hola mundo')
 
+x = 5
+
+print (x + 10)
+
+
